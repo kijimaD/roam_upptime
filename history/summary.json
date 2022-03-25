@@ -40,17 +40,19 @@
     "url": "https://roam-staging.herokuapp.com/",
     "icon": "https://favicons.githubusercontent.com/roam-staging.herokuapp.com",
     "slug": "staging",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 255,
-    "timeDay": 367,
-    "timeWeek": 269,
+    "timeDay": 304,
+    "timeWeek": 266,
     "timeMonth": 255,
     "timeYear": 255,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-25": 0
+    }
   }
 ]
