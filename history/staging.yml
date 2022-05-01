@@ -1,7 +1,7 @@
 url: https://roam-staging.herokuapp.com/
-status: down
-code: 503
-responseTime: 341
-lastUpdated: 2022-04-30T23:05:10.565Z
+status: up
+code: 200
+responseTime: 6444
+lastUpdated: 2022-05-01T00:30:06.969Z
 startTime: Mon Feb 28 2022 01:40:18 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
