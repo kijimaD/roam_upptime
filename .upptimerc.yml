@@ -6,8 +6,8 @@ sites:
     url: https://kijimad.github.io/roam/
   - name: production(custom domain)
     url: https://www.kijimad.com/
-  - name: staging
-    url: https://roam-staging.herokuapp.com/
+  # - name: staging
+  #   url: https://roam-staging.herokuapp.com/
 
 status-website:
   baseUrl: /roam_upptime
