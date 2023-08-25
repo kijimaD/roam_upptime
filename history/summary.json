@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/kijimad.github.io.ico",
     "slug": "production-gh-domain",
     "status": "up",
-    "uptime": "99.60%",
+    "uptime": "99.61%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 115,
-    "timeDay": 72,
-    "timeWeek": 74,
-    "timeMonth": 86,
-    "timeYear": 95,
+    "time": 114,
+    "timeDay": 32,
+    "timeWeek": 61,
+    "timeMonth": 83,
+    "timeYear": 94,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.kijimad.com.ico",
     "slug": "production-custom-domain",
     "status": "down",
-    "uptime": "16.48%",
+    "uptime": "16.45%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 73,
+    "time": 74,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-24": 15,
+      "2023-08-25": 16,
+      "2023-08-24": 1440,
       "2023-08-23": 1440,
       "2023-08-22": 1440,
       "2023-08-21": 1440,
@@ -397,8 +398,7 @@
       "2022-08-29": 1440,
       "2022-08-28": 1440,
       "2022-08-27": 1440,
-      "2022-08-26": 1440,
-      "2022-08-25": 1440
+      "2022-08-26": 1440
     }
   }
 ]
