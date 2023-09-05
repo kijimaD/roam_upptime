@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 110,
-    "timeDay": 141,
-    "timeWeek": 95,
-    "timeMonth": 81,
+    "timeDay": 52,
+    "timeWeek": 98,
+    "timeMonth": 80,
     "timeYear": 94,
     "dailyMinutesDown": {}
   },
@@ -23,18 +23,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.kijimad.com.ico",
     "slug": "production-custom-domain",
     "status": "down",
-    "uptime": "16.15%",
+    "uptime": "16.12%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 87,
+    "time": 89,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-09-04": 16,
+      "2023-09-05": 16,
+      "2023-09-04": 1440,
       "2023-09-03": 1440,
       "2023-09-02": 1440,
       "2023-09-01": 1440,
@@ -397,8 +398,7 @@
       "2022-09-09": 1440,
       "2022-09-08": 1440,
       "2022-09-07": 1440,
-      "2022-09-06": 1440,
-      "2022-09-05": 1440
+      "2022-09-06": 1440
     }
   }
 ]
