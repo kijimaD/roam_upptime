@@ -5,12 +5,12 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.kijimad.com.ico",
     "slug": "production-custom-domain",
     "status": "down",
-    "uptime": "16.69%",
+    "uptime": "17.68%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "26.04%",
-    "uptimeYear": "2.06%",
-    "time": 142,
+    "uptimeMonth": "49.05%",
+    "uptimeYear": "3.97%",
+    "time": 147,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
@@ -365,14 +365,7 @@
       "2022-10-12": 1440,
       "2022-10-11": 1440,
       "2022-10-10": 1440,
-      "2022-10-09": 1440,
-      "2022-10-08": 1440,
-      "2022-10-07": 1440,
-      "2022-10-06": 1440,
-      "2022-10-05": 1440,
-      "2022-10-04": 1440,
-      "2022-10-03": 1440,
-      "2022-10-02": 1440
+      "2022-10-09": 1440
     }
   }
 ]
