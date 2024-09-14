@@ -2,10 +2,10 @@ owner: kijimaD
 repo: roam_upptime
 
 sites:
-  # - name: production(gh domain)
-  #   url: https://kijimad.github.io/roam/
-  - name: production(custom domain)
-    url: https://www.kijimad.com/
+  - name: production(gh domain)
+    url: https://kijimad.github.io/roam/
+  # - name: production(custom domain)
+  #   url: https://www.kijimad.com/
   # - name: staging
   #   url: https://roam-staging.herokuapp.com/
 
